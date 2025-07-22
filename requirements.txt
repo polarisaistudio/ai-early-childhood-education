@@ -1,0 +1,41 @@
+# Core ML/AI Libraries
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# LLM APIs
+openai>=1.0.0
+anthropic>=0.7.0
+
+# Web Framework
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+python-multipart>=0.0.6
+
+# Database
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+alembic>=1.11.0
+
+# Data Science & Notebooks
+jupyter>=1.0.0
+ipykernel>=6.25.0
+plotly>=5.15.0
+
+# Development Tools
+pytest>=7.4.0
+black>=23.0.0
+isort>=5.12.0
+flake8>=6.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0
+tqdm>=4.65.0
+requests>=2.31.0
